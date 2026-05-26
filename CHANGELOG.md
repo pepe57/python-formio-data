@@ -23,7 +23,7 @@ Fix `pyproject.toml`.
 
 Update `pyproject.toml`.
 
-# 2.1.2
+## 2.1.2
 Add method `datetime_fromisoformat` in utils and refactor `datetimeComponent` to use it.
 
 ## 2.1.1
